@@ -20,9 +20,13 @@
 <p>Caminho: (<code>src\main\resources</code>)</p>
 <h3>Comandos:</h3>
 <ul>
-  <li><code>/products</code> - POST - Postagem de produtos;</li>
-  <li><code>/products</code> - GET - Visualização de todos os produtos;</li>
-  <li><code>/products/{id}</code> - GET - Visualização de um único produto;</li>
-  <li><code>/products/{id}</code> - DEL - Excluir produto;</li>
-  <li><code>/products/{id}</code> - PUT - Modificar produto.</li>
+  <li><code>.baseURL/products</code> - POST - Postagem de produtos;</li>
+  <li><code>.baseURL/products</code> - GET - Visualização de todos os produtos;</li>
+  <li><code>.baseURL/products/{id}</code> - GET - Visualização de um único produto;</li>
+  <li><code>.baseURL/products/{id}</code> - DEL - Excluir produto;</li>
+  <li><code>.baseURL/products/{id}</code> - PUT - Modificar produto.</li>
+</ul>
+<h3>URL Base Padrão:</h3>
+<ul>
+     <li><h4>http//localhost:8080</h4></li>
 </ul>
