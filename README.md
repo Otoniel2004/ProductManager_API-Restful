@@ -16,7 +16,7 @@
   <li>Identificação (ID) de cada produto.</li>
 </ul>
 <h3>Observações:</h3>
-<p>Antes de utilizar a API certifiquece de colocar a URL JDBC, Username (Padrão: postgres) e Senha (Password) no arquivo de texto "application.properties" no diretório "src/main/resources"</p>
+<p>Antes de utilizar a API certifique-se de colocar a URL JDBC, Username (Padrão: postgres) e Senha (Password) no arquivo de texto "application.properties" no diretório "src/main/resources"</p>
 <p>Caminho: (<code>src\main\resources</code>)</p>
 <h3>Comandos:</h3>
 <ul>
